@@ -1,0 +1,114 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.746; Version 2009; 64bit' Language: 'en' Physical Memory: 32656 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Alex/Desktop/Unity/Hero Born
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59961
+Successfully changed project path to: C:/Users/Alex/Desktop/Unity/Hero Born
+C:/Users/Alex/Desktop/Unity/Hero Born
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 15.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Alex/Desktop/Unity/Hero Born/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   
+    VRAM:     10077 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001365 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 15.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.262 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000413 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.499 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.4 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1535.
+Total: 1.569100 ms (FindLiveObjects: 0.146300 ms CreateObjectMapping: 0.038500 ms MarkObjects: 1.332500 ms  DeleteObjects: 0.051000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Ground_Mat.mat
+  artifactKey: Guid(634749f049127dc49af9433ae9892d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ground_Mat.mat using Guid(634749f049127dc49af9433ae9892d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e53ad6eac3a1c6a712f14b694e6ad47') in 0.223061 seconds
+  Import took 0.224804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Materials/Enemy_Mat.mat
+  artifactKey: Guid(985a6520530dcc841a9a715c8c348685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Enemy_Mat.mat using Guid(985a6520530dcc841a9a715c8c348685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0bd84335c799bcdcb40a1f94c62ed2') in 0.016706 seconds
+  Import took 0.018177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Materials/Orb_Mat.mat
+  artifactKey: Guid(1853eccc53c914c47b498202e6f1e0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Orb_Mat.mat using Guid(1853eccc53c914c47b498202e6f1e0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1c36c00c9eec94528a093aeb38fb99') in 0.011938 seconds
+  Import took 0.013331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Materials/Player_Mat.mat
+  artifactKey: Guid(1191c8609155b63429a4df11b55bdc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Player_Mat.mat using Guid(1191c8609155b63429a4df11b55bdc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b984552f7d5dbbe89e9e9609f30965e') in 0.011345 seconds
+  Import took 0.012598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(4890b2089195de24a8a1b5456561e468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(4890b2089195de24a8a1b5456561e468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c750f30ec18fc571250dc806cc0649') in 0.010257 seconds
+  Import took 0.011329 seconds .
+
